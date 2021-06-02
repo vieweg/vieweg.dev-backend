@@ -2,8 +2,6 @@
 
 The most lightweight, customizable React markdown component.
 
-<!-- TOC -->
-
 - [Installation](#installation)
 - [Usage](#usage)
   - [Parsing Options](#parsing-options)
@@ -26,8 +24,6 @@ The most lightweight, customizable React markdown component.
     - [Code blocks](#code-blocks)
 - [Changelog](#changelog)
 - [Donate](#donate)
-
-<!-- /TOC -->
 
 ---
 
